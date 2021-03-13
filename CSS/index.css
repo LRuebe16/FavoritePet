@@ -1,0 +1,36 @@
+body {
+  height: 5000px;
+}
+
+nav {
+  height: 60px;
+  background-color: lightgrey;
+}
+
+.menuButtons{
+  display: inline-block;
+  background-color: grey;
+  padding: 20px;
+  width: 50px;
+  color: white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.sideBar{    
+  float: left;
+  width: 29%;
+  height: 600px;
+  padding-right: 15px;
+  background-color: blue;
+}
+
+.right{
+  float: right;
+  padding-left: 15px;
+  width: 70%;
+  height: 600px;
+  background-color: green;
+
+}
+
